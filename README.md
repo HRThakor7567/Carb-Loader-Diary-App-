@@ -6,4 +6,8 @@
 
 <p> To run locally clone repository, login to your Ionic account, you will need to "create app" named "Test1".</p>
 
-<p> Copy the unique code for your "Test1" app from cmd line make sure you are logged in to ionic, ionic link "your unique code", then from your cmd line ionic serve. </p>
+<p> Copy the unique code for your "Test1" app from cmd line make sure you are logged in to ionic, ionic link "your unique code".</p>
+
+<p> After you will need to run npm install to have the proper dependencies working. </p>
+
+<p> From your cmd line ionic serve. </p>
