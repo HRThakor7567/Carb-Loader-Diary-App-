@@ -1,0 +1,17 @@
+{
+  "name": "carbloader-server",
+  "version": "0.0.1",
+  "description": "Carb Loader server using Mongoose",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "body-parser": "1.18.3",
+    "cors": "2.8.4",
+    "express": "4.16.3",
+    "method-override": "2.3.10",
+    "mongoose": "5.1.5",
+    "morgan": "1.9.0"
+  }
+}
